@@ -1,0 +1,15 @@
+C:\GitGabi\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.exe
+C:\GitGabi\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.deps.json
+C:\GitGabi\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.runtimeconfig.json
+C:\GitGabi\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.dll
+C:\GitGabi\OrientacaoObjetos\bin\Debug\net6.0\OrientacaoObjetos.pdb
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.csproj.AssemblyReference.cache
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.AssemblyInfoInputs.cache
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.AssemblyInfo.cs
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.dll
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\refint\OrientacaoObjetos.dll
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.pdb
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\OrientacaoObjetos.genruntimeconfig.cache
+C:\GitGabi\OrientacaoObjetos\obj\Debug\net6.0\ref\OrientacaoObjetos.dll
